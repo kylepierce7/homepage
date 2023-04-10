@@ -1,2 +1,2 @@
-# homepage
-I study cybersecurity, vulnerability scanning, penetration testing, and study projects in a home lab virtualized environment. 
+<h1> Hi, I'm Kyle! <br/>
+<h2> I study cybersecurity, network archeology, vulnerability scanning, and penetration testing. </h2>
